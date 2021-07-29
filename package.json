@@ -1,7 +1,7 @@
 {
     "name": "@glitchdotcom/ace",
     "description": "Ajax.org Code Editor is a full featured source code highlighting editor that powers the Cloud9 IDE",
-    "version": "1.4.12-glitch",
+    "version": "1.4.15",
     "homepage": "http://github.com/glitchdotcom/ace",
     "engines": {
         "node": ">= 14.0"
